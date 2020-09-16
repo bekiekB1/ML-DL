@@ -1,5 +1,5 @@
 # ML-DL
-Machine learning using Python, sklearn and pytorch(Deep learning)
+Machine learning using Python, sklearn, keras and pytorch 
 
 UNL 478(Into to Machine Learning) And 
 
